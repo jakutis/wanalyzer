@@ -1,0 +1,27 @@
+{
+  "name": "wanalyzer",
+  "version": "1.0.0",
+  "description": "Workout analyzer",
+  "type":"module",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakutis/wanalyzer.git"
+  },
+  "keywords": [
+    "workout",
+    "analyzer"
+  ],
+  "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jakutis/wanalyzer/issues"
+  },
+  "homepage": "https://github.com/jakutis/wanalyzer#readme"
+}
