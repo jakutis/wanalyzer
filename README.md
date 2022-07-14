@@ -7,6 +7,11 @@ Workout analyzer
 1. install [Node.js](https://nodejs.org/)
 2. run `npm install -g wanalyzer`
 
+## Running
+
+1. `wanalyzer csv2peakpace <filename>`
+1. `wanalyzer tcx2hrzonetimes <filename> <maxhr>`
+
 ## Features
 
 Calculates peak average pace (minutes per 1 kilometer) for windows ranging from 5 seconds to 60 minutes.

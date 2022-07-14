@@ -2,7 +2,7 @@
   "name": "wanalyzer",
   "version": "1.0.0",
   "description": "Workout analyzer",
-  "type":"module",
+  "type": "module",
   "bin": "bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jakutis/wanalyzer/issues"
   },
-  "homepage": "https://github.com/jakutis/wanalyzer#readme"
+  "homepage": "https://github.com/jakutis/wanalyzer#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
 }
